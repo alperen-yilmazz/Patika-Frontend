@@ -1,0 +1,38 @@
+.center {
+    display: block;
+    text-align: center;
+}
+
+.bg {
+    background-color: rgb(223, 218, 218);
+    text-align: center;
+}
+
+.bg-color2{
+    width: 37%;
+    background-color: #7EE5DA;
+    text-align: center;
+}
+.bg-color3{
+    background-color: #70CCC2;
+    text-align: center;
+}
+.bg-color4{
+    text-align: center;
+    background-color: #62B3AA;
+}
+table{
+    margin: auto;
+    width: 90%;
+    text-align: start;
+    border-spacing: 2px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+}
+footer{
+    margin-top: 10px;
+    text-align: center;
+    font-size: -1;
+}
